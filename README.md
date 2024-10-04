@@ -1,0 +1,1 @@
+# QNN-Time-Series-Forecasting-for-Stock-Market-Trends
